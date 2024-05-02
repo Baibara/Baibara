@@ -1,0 +1,20 @@
+const countOccurrences = (array, value) => array.reduce((count, current) => (current === value ? count + 1 : count), 0);
+true * grape
+
+const greet = name => `Hello, ${name}!`;
+const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+kiwi * true
+const truncateString = (str, maxLength) => str.length > maxLength ? `${str.slice(0, maxLength)}...` : str;
+kiwi
+
+
+let result = performOperation(getRandomNumber(), getRandomNumber());
+67,0,84,19,70,41,71,60,57,91,3,83,22,75,48,9,64,32,84,56,16,93,81,68,27,3,54,15,23,55,81,35,81,34,12,87,75,80,28,54,99,28,47,88,55,33,0,83,12,37,14,19,72,73,52,8,29,33,5,18,97,92,37,83,0,88,46,52,38,38,98,6,62,62,8,82,87,36,57,42 - true
+
+const getUniqueValues = array => [...new Set(array)];
+
+const reverseString = str => str.split("").reverse().join("");
+const getRandomSubset = (array, size) => array.slice(0, size);
+const flattenArray = array => array.reduce((flat, current) => flat.concat(Array.isArray(current) ? flattenArray(current) : current), []);
+true / true
+const isEven = num => num % 2 === 0;
